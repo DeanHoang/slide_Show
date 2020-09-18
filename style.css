@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	text-align: center;
+    color: purple;
+}
+main{
+	margin-left: 200px;
+	margin-top: 200px;
+}
+
+ul{
+	list-style: none;
+	position: absolute;	
+}	
+main > h2 {
+	margin-top: 30px;
+	color: purple;
+	text-align: center;
+}
+main > p > img 
+{
+	margin-top: 80px;
+	margin-left: 530px;
+    height: 500px;
+    width: 500px;
+    border: solid 10px pink;
+    position: relative;
+    padding: 80px;	
+
+}
